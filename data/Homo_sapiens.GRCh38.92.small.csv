@@ -1,0 +1,205 @@
+seqname,source,feature,start,end,score,strand,frame,CCDS,basic,ccds_id,cds_end_NF,cds_start_NF,exon_id,exon_number,exon_version,gene_biotype,gene_id,gene_name,gene_source,gene_version,mRNA_end_NF,mRNA_start_NF,protein_id,protein_version,seleno,transcript_biotype,transcript_id,transcript_name,transcript_source,transcript_support_level,transcript_version
+1,havana,gene,11869,14409,.,+,.,,,,,,,,,transcribed_unprocessed_pseudogene,ENSG00000223972,DDX11L1,havana,5,,,,,,,,,,,
+1,havana,transcript,11869,14409,.,+,.,,1.0,,,,,,,transcribed_unprocessed_pseudogene,ENSG00000223972,DDX11L1,havana,5,,,,,,processed_transcript,ENST00000456328,DDX11L1-202,havana,1,2
+1,havana,exon,11869,12227,.,+,.,,1.0,,,,ENSE00002234944,1,1,transcribed_unprocessed_pseudogene,ENSG00000223972,DDX11L1,havana,5,,,,,,processed_transcript,ENST00000456328,DDX11L1-202,havana,1,2
+1,havana,exon,12613,12721,.,+,.,,1.0,,,,ENSE00003582793,2,1,transcribed_unprocessed_pseudogene,ENSG00000223972,DDX11L1,havana,5,,,,,,processed_transcript,ENST00000456328,DDX11L1-202,havana,1,2
+1,havana,exon,13221,14409,.,+,.,,1.0,,,,ENSE00002312635,3,1,transcribed_unprocessed_pseudogene,ENSG00000223972,DDX11L1,havana,5,,,,,,processed_transcript,ENST00000456328,DDX11L1-202,havana,1,2
+1,havana,transcript,12010,13670,.,+,.,,1.0,,,,,,,transcribed_unprocessed_pseudogene,ENSG00000223972,DDX11L1,havana,5,,,,,,transcribed_unprocessed_pseudogene,ENST00000450305,DDX11L1-201,havana,NA,2
+1,havana,exon,12010,12057,.,+,.,,1.0,,,,ENSE00001948541,1,1,transcribed_unprocessed_pseudogene,ENSG00000223972,DDX11L1,havana,5,,,,,,transcribed_unprocessed_pseudogene,ENST00000450305,DDX11L1-201,havana,NA,2
+1,havana,exon,12179,12227,.,+,.,,1.0,,,,ENSE00001671638,2,2,transcribed_unprocessed_pseudogene,ENSG00000223972,DDX11L1,havana,5,,,,,,transcribed_unprocessed_pseudogene,ENST00000450305,DDX11L1-201,havana,NA,2
+1,havana,exon,12613,12697,.,+,.,,1.0,,,,ENSE00001758273,3,2,transcribed_unprocessed_pseudogene,ENSG00000223972,DDX11L1,havana,5,,,,,,transcribed_unprocessed_pseudogene,ENST00000450305,DDX11L1-201,havana,NA,2
+1,havana,exon,12975,13052,.,+,.,,1.0,,,,ENSE00001799933,4,2,transcribed_unprocessed_pseudogene,ENSG00000223972,DDX11L1,havana,5,,,,,,transcribed_unprocessed_pseudogene,ENST00000450305,DDX11L1-201,havana,NA,2
+1,havana,exon,13221,13374,.,+,.,,1.0,,,,ENSE00001746346,5,2,transcribed_unprocessed_pseudogene,ENSG00000223972,DDX11L1,havana,5,,,,,,transcribed_unprocessed_pseudogene,ENST00000450305,DDX11L1-201,havana,NA,2
+1,havana,exon,13453,13670,.,+,.,,1.0,,,,ENSE00001863096,6,1,transcribed_unprocessed_pseudogene,ENSG00000223972,DDX11L1,havana,5,,,,,,transcribed_unprocessed_pseudogene,ENST00000450305,DDX11L1-201,havana,NA,2
+1,havana,gene,14404,29570,.,-,.,,,,,,,,,unprocessed_pseudogene,ENSG00000227232,WASH7P,havana,5,,,,,,,,,,,
+1,havana,transcript,14404,29570,.,-,.,,1.0,,,,,,,unprocessed_pseudogene,ENSG00000227232,WASH7P,havana,5,,,,,,unprocessed_pseudogene,ENST00000488147,WASH7P-201,havana,NA,1
+1,havana,exon,29534,29570,.,-,.,,1.0,,,,ENSE00001890219,1,1,unprocessed_pseudogene,ENSG00000227232,WASH7P,havana,5,,,,,,unprocessed_pseudogene,ENST00000488147,WASH7P-201,havana,NA,1
+1,havana,exon,24738,24891,.,-,.,,1.0,,,,ENSE00003507205,2,1,unprocessed_pseudogene,ENSG00000227232,WASH7P,havana,5,,,,,,unprocessed_pseudogene,ENST00000488147,WASH7P-201,havana,NA,1
+1,havana,exon,18268,18366,.,-,.,,1.0,,,,ENSE00003477500,3,1,unprocessed_pseudogene,ENSG00000227232,WASH7P,havana,5,,,,,,unprocessed_pseudogene,ENST00000488147,WASH7P-201,havana,NA,1
+1,havana,exon,17915,18061,.,-,.,,1.0,,,,ENSE00003565697,4,1,unprocessed_pseudogene,ENSG00000227232,WASH7P,havana,5,,,,,,unprocessed_pseudogene,ENST00000488147,WASH7P-201,havana,NA,1
+1,havana,exon,17606,17742,.,-,.,,1.0,,,,ENSE00003475637,5,1,unprocessed_pseudogene,ENSG00000227232,WASH7P,havana,5,,,,,,unprocessed_pseudogene,ENST00000488147,WASH7P-201,havana,NA,1
+1,havana,exon,17233,17368,.,-,.,,1.0,,,,ENSE00003502542,6,1,unprocessed_pseudogene,ENSG00000227232,WASH7P,havana,5,,,,,,unprocessed_pseudogene,ENST00000488147,WASH7P-201,havana,NA,1
+1,havana,exon,16858,17055,.,-,.,,1.0,,,,ENSE00003553898,7,1,unprocessed_pseudogene,ENSG00000227232,WASH7P,havana,5,,,,,,unprocessed_pseudogene,ENST00000488147,WASH7P-201,havana,NA,1
+1,havana,exon,16607,16765,.,-,.,,1.0,,,,ENSE00003621279,8,1,unprocessed_pseudogene,ENSG00000227232,WASH7P,havana,5,,,,,,unprocessed_pseudogene,ENST00000488147,WASH7P-201,havana,NA,1
+1,havana,exon,15796,15947,.,-,.,,1.0,,,,ENSE00002030414,9,1,unprocessed_pseudogene,ENSG00000227232,WASH7P,havana,5,,,,,,unprocessed_pseudogene,ENST00000488147,WASH7P-201,havana,NA,1
+1,havana,exon,15005,15038,.,-,.,,1.0,,,,ENSE00001935574,10,1,unprocessed_pseudogene,ENSG00000227232,WASH7P,havana,5,,,,,,unprocessed_pseudogene,ENST00000488147,WASH7P-201,havana,NA,1
+1,havana,exon,14404,14501,.,-,.,,1.0,,,,ENSE00001843071,11,1,unprocessed_pseudogene,ENSG00000227232,WASH7P,havana,5,,,,,,unprocessed_pseudogene,ENST00000488147,WASH7P-201,havana,NA,1
+1,mirbase,gene,17369,17436,.,-,.,,,,,,,,,miRNA,ENSG00000278267,MIR6859-1,mirbase,1,,,,,,,,,,,
+1,mirbase,transcript,17369,17436,.,-,.,,1.0,,,,,,,miRNA,ENSG00000278267,MIR6859-1,mirbase,1,,,,,,miRNA,ENST00000619216,MIR6859-1-201,mirbase,NA,1
+1,mirbase,exon,17369,17436,.,-,.,,1.0,,,,ENSE00003746039,1,1,miRNA,ENSG00000278267,MIR6859-1,mirbase,1,,,,,,miRNA,ENST00000619216,MIR6859-1-201,mirbase,NA,1
+1,havana,gene,29554,31109,.,+,.,,,,,,,,,lincRNA,ENSG00000243485,MIR1302-2HG,havana,5,,,,,,,,,,,
+1,havana,transcript,29554,31097,.,+,.,,1.0,,,,,,,lincRNA,ENSG00000243485,MIR1302-2HG,havana,5,,,,,,lincRNA,ENST00000473358,MIR1302-2HG-202,havana,5,1
+1,havana,exon,29554,30039,.,+,.,,1.0,,,,ENSE00001947070,1,1,lincRNA,ENSG00000243485,MIR1302-2HG,havana,5,,,,,,lincRNA,ENST00000473358,MIR1302-2HG-202,havana,5,1
+1,havana,exon,30564,30667,.,+,.,,1.0,,,,ENSE00001922571,2,1,lincRNA,ENSG00000243485,MIR1302-2HG,havana,5,,,,,,lincRNA,ENST00000473358,MIR1302-2HG-202,havana,5,1
+1,havana,exon,30976,31097,.,+,.,,1.0,,,,ENSE00001827679,3,1,lincRNA,ENSG00000243485,MIR1302-2HG,havana,5,,,,,,lincRNA,ENST00000473358,MIR1302-2HG-202,havana,5,1
+1,havana,transcript,30267,31109,.,+,.,,1.0,,,,,,,lincRNA,ENSG00000243485,MIR1302-2HG,havana,5,,,,,,lincRNA,ENST00000469289,MIR1302-2HG-201,havana,5,1
+1,havana,exon,30267,30667,.,+,.,,1.0,,,,ENSE00001841699,1,1,lincRNA,ENSG00000243485,MIR1302-2HG,havana,5,,,,,,lincRNA,ENST00000469289,MIR1302-2HG-201,havana,5,1
+1,havana,exon,30976,31109,.,+,.,,1.0,,,,ENSE00001890064,2,1,lincRNA,ENSG00000243485,MIR1302-2HG,havana,5,,,,,,lincRNA,ENST00000469289,MIR1302-2HG-201,havana,5,1
+1,mirbase,gene,30366,30503,.,+,.,,,,,,,,,miRNA,ENSG00000284332,MIR1302-2,mirbase,1,,,,,,,,,,,
+1,mirbase,transcript,30366,30503,.,+,.,,1.0,,,,,,,miRNA,ENSG00000284332,MIR1302-2,mirbase,1,,,,,,miRNA,ENST00000607096,MIR1302-2-201,mirbase,NA,1
+1,mirbase,exon,30366,30503,.,+,.,,1.0,,,,ENSE00003695741,1,1,miRNA,ENSG00000284332,MIR1302-2,mirbase,1,,,,,,miRNA,ENST00000607096,MIR1302-2-201,mirbase,NA,1
+1,havana,gene,34554,36081,.,-,.,,,,,,,,,lincRNA,ENSG00000237613,FAM138A,havana,2,,,,,,,,,,,
+1,havana,transcript,34554,36081,.,-,.,,1.0,,,,,,,lincRNA,ENSG00000237613,FAM138A,havana,2,,,,,,lincRNA,ENST00000417324,FAM138A-201,havana,1,1
+1,havana,exon,35721,36081,.,-,.,,1.0,,,,ENSE00001656588,1,1,lincRNA,ENSG00000237613,FAM138A,havana,2,,,,,,lincRNA,ENST00000417324,FAM138A-201,havana,1,1
+1,havana,exon,35277,35481,.,-,.,,1.0,,,,ENSE00001669267,2,1,lincRNA,ENSG00000237613,FAM138A,havana,2,,,,,,lincRNA,ENST00000417324,FAM138A-201,havana,1,1
+1,havana,exon,34554,35174,.,-,.,,1.0,,,,ENSE00001727627,3,1,lincRNA,ENSG00000237613,FAM138A,havana,2,,,,,,lincRNA,ENST00000417324,FAM138A-201,havana,1,1
+1,havana,transcript,35245,36073,.,-,.,,,,,,,,,lincRNA,ENSG00000237613,FAM138A,havana,2,,,,,,lincRNA,ENST00000461467,FAM138A-202,havana,3,1
+1,havana,exon,35721,36073,.,-,.,,,,,,ENSE00001618781,1,2,lincRNA,ENSG00000237613,FAM138A,havana,2,,,,,,lincRNA,ENST00000461467,FAM138A-202,havana,3,1
+1,havana,exon,35245,35481,.,-,.,,,,,,ENSE00001874421,2,1,lincRNA,ENSG00000237613,FAM138A,havana,2,,,,,,lincRNA,ENST00000461467,FAM138A-202,havana,3,1
+1,havana,gene,52473,53312,.,+,.,,,,,,,,,unprocessed_pseudogene,ENSG00000268020,OR4G4P,havana,3,,,,,,,,,,,
+1,havana,transcript,52473,53312,.,+,.,,1.0,,,,,,,unprocessed_pseudogene,ENSG00000268020,OR4G4P,havana,3,,,,,,unprocessed_pseudogene,ENST00000606857,OR4G4P-201,havana,NA,1
+1,havana,exon,52473,53312,.,+,.,,1.0,,,,ENSE00003698237,1,1,unprocessed_pseudogene,ENSG00000268020,OR4G4P,havana,3,,,,,,unprocessed_pseudogene,ENST00000606857,OR4G4P-201,havana,NA,1
+1,havana,gene,57598,64116,.,+,.,,,,,,,,,transcribed_unprocessed_pseudogene,ENSG00000240361,OR4G11P,havana,2,,,,,,,,,,,
+1,havana,transcript,57598,64116,.,+,.,,1.0,,,,,,,transcribed_unprocessed_pseudogene,ENSG00000240361,OR4G11P,havana,2,,,,,,processed_transcript,ENST00000642116,OR4G11P-202,havana,,1
+1,havana,exon,57598,57653,.,+,.,,1.0,,,,ENSE00003812686,1,1,transcribed_unprocessed_pseudogene,ENSG00000240361,OR4G11P,havana,2,,,,,,processed_transcript,ENST00000642116,OR4G11P-202,havana,,1
+1,havana,exon,58700,58856,.,+,.,,1.0,,,,ENSE00003812505,2,1,transcribed_unprocessed_pseudogene,ENSG00000240361,OR4G11P,havana,2,,,,,,processed_transcript,ENST00000642116,OR4G11P-202,havana,,1
+1,havana,exon,62916,64116,.,+,.,,1.0,,,,ENSE00003811818,3,1,transcribed_unprocessed_pseudogene,ENSG00000240361,OR4G11P,havana,2,,,,,,processed_transcript,ENST00000642116,OR4G11P-202,havana,,1
+1,havana,transcript,62949,63887,.,+,.,,1.0,,,,,,,transcribed_unprocessed_pseudogene,ENSG00000240361,OR4G11P,havana,2,,,,,,transcribed_unprocessed_pseudogene,ENST00000492842,OR4G11P-201,havana,NA (assigned to previous version 1),2
+1,havana,exon,62949,63887,.,+,.,,1.0,,,,ENSE00001830178,1,2,transcribed_unprocessed_pseudogene,ENSG00000240361,OR4G11P,havana,2,,,,,,transcribed_unprocessed_pseudogene,ENST00000492842,OR4G11P-201,havana,NA (assigned to previous version 1),2
+1,ensembl_havana,gene,65419,71585,.,+,.,,,,,,,,,protein_coding,ENSG00000186092,OR4F5,ensembl_havana,6,,,,,,,,,,,
+1,havana,transcript,65419,71585,.,+,.,,1.0,,,,,,,protein_coding,ENSG00000186092,OR4F5,ensembl_havana,6,,,,,,protein_coding,ENST00000641515,OR4F5-202,havana,,2
+1,havana,exon,65419,65433,.,+,.,,1.0,,,,ENSE00003812156,1,1,protein_coding,ENSG00000186092,OR4F5,ensembl_havana,6,,,,,,protein_coding,ENST00000641515,OR4F5-202,havana,,2
+1,havana,exon,65520,65573,.,+,.,,1.0,,,,ENSE00003813641,2,1,protein_coding,ENSG00000186092,OR4F5,ensembl_havana,6,,,,,,protein_coding,ENST00000641515,OR4F5-202,havana,,2
+1,havana,CDS,65565,65573,.,+,0,,1.0,,,,,2,,protein_coding,ENSG00000186092,OR4F5,ensembl_havana,6,,,ENSP00000493376,2,,protein_coding,ENST00000641515,OR4F5-202,havana,,2
+1,havana,start_codon,65565,65567,.,+,0,,1.0,,,,,2,,protein_coding,ENSG00000186092,OR4F5,ensembl_havana,6,,,,,,protein_coding,ENST00000641515,OR4F5-202,havana,,2
+1,havana,exon,69037,71585,.,+,.,,1.0,,,,ENSE00003813949,3,1,protein_coding,ENSG00000186092,OR4F5,ensembl_havana,6,,,,,,protein_coding,ENST00000641515,OR4F5-202,havana,,2
+1,havana,CDS,69037,70005,.,+,0,,1.0,,,,,3,,protein_coding,ENSG00000186092,OR4F5,ensembl_havana,6,,,ENSP00000493376,2,,protein_coding,ENST00000641515,OR4F5-202,havana,,2
+1,havana,stop_codon,70006,70008,.,+,0,,1.0,,,,,3,,protein_coding,ENSG00000186092,OR4F5,ensembl_havana,6,,,,,,protein_coding,ENST00000641515,OR4F5-202,havana,,2
+1,havana,five_prime_utr,65419,65433,.,+,.,,1.0,,,,,,,protein_coding,ENSG00000186092,OR4F5,ensembl_havana,6,,,,,,protein_coding,ENST00000641515,OR4F5-202,havana,,2
+1,havana,five_prime_utr,65520,65564,.,+,.,,1.0,,,,,,,protein_coding,ENSG00000186092,OR4F5,ensembl_havana,6,,,,,,protein_coding,ENST00000641515,OR4F5-202,havana,,2
+1,havana,three_prime_utr,70009,71585,.,+,.,,1.0,,,,,,,protein_coding,ENSG00000186092,OR4F5,ensembl_havana,6,,,,,,protein_coding,ENST00000641515,OR4F5-202,havana,,2
+1,ensembl,transcript,69055,70108,.,+,.,1.0,1.0,CCDS30547,,,,,,protein_coding,ENSG00000186092,OR4F5,ensembl_havana,6,,,,,,protein_coding,ENST00000335137,OR4F5-201,ensembl,NA (assigned to previous version 3),4
+1,ensembl,exon,69055,70108,.,+,.,1.0,1.0,CCDS30547,,,ENSE00002319515,1,2,protein_coding,ENSG00000186092,OR4F5,ensembl_havana,6,,,,,,protein_coding,ENST00000335137,OR4F5-201,ensembl,NA (assigned to previous version 3),4
+1,ensembl,CDS,69091,70005,.,+,0,1.0,1.0,CCDS30547,,,,1,,protein_coding,ENSG00000186092,OR4F5,ensembl_havana,6,,,ENSP00000334393,3,,protein_coding,ENST00000335137,OR4F5-201,ensembl,NA (assigned to previous version 3),4
+1,ensembl,start_codon,69091,69093,.,+,0,1.0,1.0,CCDS30547,,,,1,,protein_coding,ENSG00000186092,OR4F5,ensembl_havana,6,,,,,,protein_coding,ENST00000335137,OR4F5-201,ensembl,NA (assigned to previous version 3),4
+1,ensembl,stop_codon,70006,70008,.,+,0,1.0,1.0,CCDS30547,,,,1,,protein_coding,ENSG00000186092,OR4F5,ensembl_havana,6,,,,,,protein_coding,ENST00000335137,OR4F5-201,ensembl,NA (assigned to previous version 3),4
+1,ensembl,five_prime_utr,69055,69090,.,+,.,1.0,1.0,CCDS30547,,,,,,protein_coding,ENSG00000186092,OR4F5,ensembl_havana,6,,,,,,protein_coding,ENST00000335137,OR4F5-201,ensembl,NA (assigned to previous version 3),4
+1,ensembl,three_prime_utr,70009,70108,.,+,.,1.0,1.0,CCDS30547,,,,,,protein_coding,ENSG00000186092,OR4F5,ensembl_havana,6,,,,,,protein_coding,ENST00000335137,OR4F5-201,ensembl,NA (assigned to previous version 3),4
+1,ensembl_havana,gene,89295,133723,.,-,.,,,,,,,,,lincRNA,ENSG00000238009,AL627309.1,ensembl_havana,6,,,,,,,,,,,
+1,havana,transcript,89295,120932,.,-,.,,1.0,,,,,,,lincRNA,ENSG00000238009,AL627309.1,ensembl_havana,6,,,,,,lincRNA,ENST00000466430,AL627309.1-201,havana,5,5
+1,havana,exon,120775,120932,.,-,.,,1.0,,,,ENSE00001606755,1,2,lincRNA,ENSG00000238009,AL627309.1,ensembl_havana,6,,,,,,lincRNA,ENST00000466430,AL627309.1-201,havana,5,5
+1,havana,exon,112700,112804,.,-,.,,1.0,,,,ENSE00001957285,2,1,lincRNA,ENSG00000238009,AL627309.1,ensembl_havana,6,,,,,,lincRNA,ENST00000466430,AL627309.1-201,havana,5,5
+1,havana,exon,92091,92240,.,-,.,,1.0,,,,ENSE00001944529,3,1,lincRNA,ENSG00000238009,AL627309.1,ensembl_havana,6,,,,,,lincRNA,ENST00000466430,AL627309.1-201,havana,5,5
+1,havana,exon,89295,91629,.,-,.,,1.0,,,,ENSE00001846804,4,1,lincRNA,ENSG00000238009,AL627309.1,ensembl_havana,6,,,,,,lincRNA,ENST00000466430,AL627309.1-201,havana,5,5
+1,havana,transcript,92230,129217,.,-,.,,,,,,,,,lincRNA,ENSG00000238009,AL627309.1,ensembl_havana,6,,,,,,lincRNA,ENST00000477740,AL627309.1-202,havana,5,5
+1,havana,exon,129055,129217,.,-,.,,,,,,ENSE00001919246,1,1,lincRNA,ENSG00000238009,AL627309.1,ensembl_havana,6,,,,,,lincRNA,ENST00000477740,AL627309.1-202,havana,5,5
+1,havana,exon,120721,120932,.,-,.,,,,,,ENSE00001171005,2,3,lincRNA,ENSG00000238009,AL627309.1,ensembl_havana,6,,,,,,lincRNA,ENST00000477740,AL627309.1-202,havana,5,5
+1,havana,exon,112700,112804,.,-,.,,,,,,ENSE00001957285,3,1,lincRNA,ENSG00000238009,AL627309.1,ensembl_havana,6,,,,,,lincRNA,ENST00000477740,AL627309.1-202,havana,5,5
+1,havana,exon,92230,92240,.,-,.,,,,,,ENSE00001896976,4,1,lincRNA,ENSG00000238009,AL627309.1,ensembl_havana,6,,,,,,lincRNA,ENST00000477740,AL627309.1-202,havana,5,5
+1,havana,transcript,110953,129173,.,-,.,,,,,,,,,lincRNA,ENSG00000238009,AL627309.1,ensembl_havana,6,,,,,,lincRNA,ENST00000471248,AL627309.1-203,havana,5,1
+1,havana,exon,129055,129173,.,-,.,,,,,,ENSE00001934975,1,1,lincRNA,ENSG00000238009,AL627309.1,ensembl_havana,6,,,,,,lincRNA,ENST00000471248,AL627309.1-203,havana,5,1
+1,havana,exon,112700,112804,.,-,.,,,,,,ENSE00001957285,2,1,lincRNA,ENSG00000238009,AL627309.1,ensembl_havana,6,,,,,,lincRNA,ENST00000471248,AL627309.1-203,havana,5,1
+1,havana,exon,110953,111357,.,-,.,,,,,,ENSE00001879696,3,1,lincRNA,ENSG00000238009,AL627309.1,ensembl_havana,6,,,,,,lincRNA,ENST00000471248,AL627309.1-203,havana,5,1
+1,ensembl,transcript,120725,133723,.,-,.,,1.0,,,,,,,lincRNA,ENSG00000238009,AL627309.1,ensembl_havana,6,,,,,,lincRNA,ENST00000610542,AL627309.1-205,ensembl,5,1
+1,ensembl,exon,133374,133723,.,-,.,,1.0,,,,ENSE00003748456,1,1,lincRNA,ENSG00000238009,AL627309.1,ensembl_havana,6,,,,,,lincRNA,ENST00000610542,AL627309.1-205,ensembl,5,1
+1,ensembl,exon,129055,129223,.,-,.,,1.0,,,,ENSE00003734824,2,1,lincRNA,ENSG00000238009,AL627309.1,ensembl_havana,6,,,,,,lincRNA,ENST00000610542,AL627309.1-205,ensembl,5,1
+1,ensembl,exon,120874,120932,.,-,.,,1.0,,,,ENSE00003740919,3,1,lincRNA,ENSG00000238009,AL627309.1,ensembl_havana,6,,,,,,lincRNA,ENST00000610542,AL627309.1-205,ensembl,5,1
+1,ensembl,exon,120725,120869,.,-,.,,1.0,,,,ENSE00003749543,4,1,lincRNA,ENSG00000238009,AL627309.1,ensembl_havana,6,,,,,,lincRNA,ENST00000610542,AL627309.1-205,ensembl,5,1
+1,havana,transcript,129081,133566,.,-,.,,,,,,,,,lincRNA,ENSG00000238009,AL627309.1,ensembl_havana,6,,,,,,lincRNA,ENST00000453576,AL627309.1-204,havana,2,2
+1,havana,exon,133374,133566,.,-,.,,,,,,ENSE00001737600,1,2,lincRNA,ENSG00000238009,AL627309.1,ensembl_havana,6,,,,,,lincRNA,ENST00000453576,AL627309.1-204,havana,2,2
+1,havana,exon,129081,129223,.,-,.,,,,,,ENSE00001827073,2,1,lincRNA,ENSG00000238009,AL627309.1,ensembl_havana,6,,,,,,lincRNA,ENST00000453576,AL627309.1-204,havana,2,2
+1,havana,gene,89551,91105,.,-,.,,,,,,,,,lincRNA,ENSG00000239945,AL627309.3,havana,1,,,,,,,,,,,
+1,havana,transcript,89551,91105,.,-,.,,1.0,,,,,,,lincRNA,ENSG00000239945,AL627309.3,havana,1,,,,,,lincRNA,ENST00000495576,AL627309.3-201,havana,5,1
+1,havana,exon,90287,91105,.,-,.,,1.0,,,,ENSE00001907785,1,1,lincRNA,ENSG00000239945,AL627309.3,havana,1,,,,,,lincRNA,ENST00000495576,AL627309.3-201,havana,5,1
+1,havana,exon,89551,90050,.,-,.,,1.0,,,,ENSE00001927725,2,1,lincRNA,ENSG00000239945,AL627309.3,havana,1,,,,,,lincRNA,ENST00000495576,AL627309.3-201,havana,5,1
+1,havana,gene,131025,134836,.,+,.,,,,,,,,,processed_pseudogene,ENSG00000233750,CICP27,havana,3,,,,,,,,,,,
+1,havana,transcript,131025,134836,.,+,.,,1.0,,,,,,,processed_pseudogene,ENSG00000233750,CICP27,havana,3,,,,,,processed_pseudogene,ENST00000442987,CICP27-201,havana,NA,3
+1,havana,exon,131025,134836,.,+,.,,1.0,,,,ENSE00001625118,1,3,processed_pseudogene,ENSG00000233750,CICP27,havana,3,,,,,,processed_pseudogene,ENST00000442987,CICP27-201,havana,NA,3
+1,havana,gene,135141,135895,.,-,.,,,,,,,,,processed_pseudogene,ENSG00000268903,AL627309.6,havana,1,,,,,,,,,,,
+1,havana,transcript,135141,135895,.,-,.,,1.0,,,,,,,processed_pseudogene,ENSG00000268903,AL627309.6,havana,1,,,,,,processed_pseudogene,ENST00000494149,AL627309.6-201,havana,NA,2
+1,havana,exon,135141,135895,.,-,.,,1.0,,,,ENSE00001879101,1,2,processed_pseudogene,ENSG00000268903,AL627309.6,havana,1,,,,,,processed_pseudogene,ENST00000494149,AL627309.6-201,havana,NA,2
+1,havana,gene,137682,137965,.,-,.,,,,,,,,,processed_pseudogene,ENSG00000269981,AL627309.7,havana,1,,,,,,,,,,,
+1,havana,transcript,137682,137965,.,-,.,,1.0,,,,,,,processed_pseudogene,ENSG00000269981,AL627309.7,havana,1,,,,,,processed_pseudogene,ENST00000595919,AL627309.7-201,havana,NA,1
+1,havana,exon,137682,137965,.,-,.,,1.0,,,,ENSE00001936432,1,2,processed_pseudogene,ENSG00000269981,AL627309.7,havana,1,,,,,,processed_pseudogene,ENST00000595919,AL627309.7-201,havana,NA,1
+1,havana,gene,139790,140339,.,-,.,,,,,,,,,antisense,ENSG00000239906,AL627309.2,havana,1,,,,,,,,,,,
+1,havana,transcript,139790,140339,.,-,.,,1.0,,,,,,,antisense,ENSG00000239906,AL627309.2,havana,1,,,,,,antisense,ENST00000493797,AL627309.2-201,havana,2,1
+1,havana,exon,140075,140339,.,-,.,,1.0,,,,ENSE00001913281,1,1,antisense,ENSG00000239906,AL627309.2,havana,1,,,,,,antisense,ENST00000493797,AL627309.2-201,havana,2,1
+1,havana,exon,139790,139847,.,-,.,,1.0,,,,ENSE00001922992,2,1,antisense,ENSG00000239906,AL627309.2,havana,1,,,,,,antisense,ENST00000493797,AL627309.2-201,havana,2,1
+1,havana,gene,141474,173862,.,-,.,,,,,,,,,processed_transcript,ENSG00000241860,AL627309.5,havana,6,,,,,,,,,,,
+1,havana,transcript,141474,149707,.,-,.,,1.0,,,,,,,processed_transcript,ENSG00000241860,AL627309.5,havana,6,,,,,,antisense,ENST00000484859,AL627309.5-201,havana,5,1
+1,havana,exon,146386,149707,.,-,.,,1.0,,,,ENSE00001860404,1,1,processed_transcript,ENSG00000241860,AL627309.5,havana,6,,,,,,antisense,ENST00000484859,AL627309.5-201,havana,5,1
+1,havana,exon,141474,143011,.,-,.,,1.0,,,,ENSE00001911218,2,1,processed_transcript,ENSG00000241860,AL627309.5,havana,6,,,,,,antisense,ENST00000484859,AL627309.5-201,havana,5,1
+1,havana,transcript,142808,146831,.,-,.,,,,,,,,,processed_transcript,ENSG00000241860,AL627309.5,havana,6,,,,,,antisense,ENST00000490997,AL627309.5-202,havana,5,5
+1,havana,exon,146642,146831,.,-,.,,,,,,ENSE00001868647,1,1,processed_transcript,ENSG00000241860,AL627309.5,havana,6,,,,,,antisense,ENST00000490997,AL627309.5-202,havana,5,5
+1,havana,exon,146386,146509,.,-,.,,,,,,ENSE00001853409,2,1,processed_transcript,ENSG00000241860,AL627309.5,havana,6,,,,,,antisense,ENST00000490997,AL627309.5-202,havana,5,5
+1,havana,exon,142808,143011,.,-,.,,,,,,ENSE00001838397,3,1,processed_transcript,ENSG00000241860,AL627309.5,havana,6,,,,,,antisense,ENST00000490997,AL627309.5-202,havana,5,5
+1,havana,transcript,146386,173862,.,-,.,,1.0,,,,,,,processed_transcript,ENSG00000241860,AL627309.5,havana,6,,,,,,lincRNA,ENST00000466557,AL627309.5-203,havana,5,6
+1,havana,exon,173753,173862,.,-,.,,1.0,,,,ENSE00001947154,1,2,processed_transcript,ENSG00000241860,AL627309.5,havana,6,,,,,,lincRNA,ENST00000466557,AL627309.5-203,havana,5,6
+1,havana,exon,172557,172688,.,-,.,,1.0,,,,ENSE00001890990,2,1,processed_transcript,ENSG00000241860,AL627309.5,havana,6,,,,,,lincRNA,ENST00000466557,AL627309.5-203,havana,5,6
+1,havana,exon,169049,169264,.,-,.,,1.0,,,,ENSE00001922566,3,1,processed_transcript,ENSG00000241860,AL627309.5,havana,6,,,,,,lincRNA,ENST00000466557,AL627309.5-203,havana,5,6
+1,havana,exon,168100,168165,.,-,.,,1.0,,,,ENSE00001947087,4,1,processed_transcript,ENSG00000241860,AL627309.5,havana,6,,,,,,lincRNA,ENST00000466557,AL627309.5-203,havana,5,6
+1,havana,exon,165884,165942,.,-,.,,1.0,,,,ENSE00001949945,5,1,processed_transcript,ENSG00000241860,AL627309.5,havana,6,,,,,,lincRNA,ENST00000466557,AL627309.5-203,havana,5,6
+1,havana,exon,164263,164791,.,-,.,,1.0,,,,ENSE00001862111,6,2,processed_transcript,ENSG00000241860,AL627309.5,havana,6,,,,,,lincRNA,ENST00000466557,AL627309.5-203,havana,5,6
+1,havana,exon,155767,155831,.,-,.,,1.0,,,,ENSE00001799309,7,2,processed_transcript,ENSG00000241860,AL627309.5,havana,6,,,,,,lincRNA,ENST00000466557,AL627309.5-203,havana,5,6
+1,havana,exon,146386,146509,.,-,.,,1.0,,,,ENSE00001853409,8,1,processed_transcript,ENSG00000241860,AL627309.5,havana,6,,,,,,lincRNA,ENST00000466557,AL627309.5-203,havana,5,6
+1,havana,transcript,165889,168767,.,-,.,,,,,,,,,processed_transcript,ENSG00000241860,AL627309.5,havana,6,,,,,,lincRNA,ENST00000491962,AL627309.5-204,havana,5,1
+1,havana,exon,168610,168767,.,-,.,,,,,,ENSE00001939117,1,1,processed_transcript,ENSG00000241860,AL627309.5,havana,6,,,,,,lincRNA,ENST00000491962,AL627309.5-204,havana,5,1
+1,havana,exon,168100,168165,.,-,.,,,,,,ENSE00001947087,2,1,processed_transcript,ENSG00000241860,AL627309.5,havana,6,,,,,,lincRNA,ENST00000491962,AL627309.5-204,havana,5,1
+1,havana,exon,165889,165942,.,-,.,,,,,,ENSE00001898156,3,1,processed_transcript,ENSG00000241860,AL627309.5,havana,6,,,,,,lincRNA,ENST00000491962,AL627309.5-204,havana,5,1
+1,ensembl,gene,157784,157887,.,-,.,,,,,,,,,snRNA,ENSG00000222623,RNU6-1100P,ensembl,1,,,,,,,,,,,
+1,ensembl,transcript,157784,157887,.,-,.,,1.0,,,,,,,snRNA,ENSG00000222623,RNU6-1100P,ensembl,1,,,,,,snRNA,ENST00000410691,RNU6-1100P-201,ensembl,NA,1
+1,ensembl,exon,157784,157887,.,-,.,,1.0,,,,ENSE00001807945,1,1,snRNA,ENSG00000222623,RNU6-1100P,ensembl,1,,,,,,snRNA,ENST00000410691,RNU6-1100P-201,ensembl,NA,1
+1,havana,gene,160446,161525,.,+,.,,,,,,,,,lincRNA,ENSG00000241599,AL627309.4,havana,1,,,,,,,,,,,
+1,havana,transcript,160446,161525,.,+,.,,1.0,,,,,,,lincRNA,ENSG00000241599,AL627309.4,havana,1,,,,,,lincRNA,ENST00000496488,AL627309.4-201,havana,5,1
+1,havana,exon,160446,160690,.,+,.,,1.0,,,,ENSE00001882727,1,1,lincRNA,ENSG00000241599,AL627309.4,havana,1,,,,,,lincRNA,ENST00000496488,AL627309.4-201,havana,5,1
+1,havana,exon,161314,161525,.,+,.,,1.0,,,,ENSE00001895361,2,1,lincRNA,ENSG00000241599,AL627309.4,havana,1,,,,,,lincRNA,ENST00000496488,AL627309.4-201,havana,5,1
+1,havana,gene,182696,184174,.,+,.,,,,,,,,,unprocessed_pseudogene,ENSG00000279928,FO538757.2,havana,2,,,,,,,,,,,
+1,havana,transcript,182696,184174,.,+,.,,1.0,,,,,,,unprocessed_pseudogene,ENSG00000279928,FO538757.2,havana,2,,,,,,unprocessed_pseudogene,ENST00000624431,FO538757.2-201,havana,NA,2
+1,havana,exon,182696,182746,.,+,.,,1.0,,,,ENSE00003759020,1,2,unprocessed_pseudogene,ENSG00000279928,FO538757.2,havana,2,,,,,,unprocessed_pseudogene,ENST00000624431,FO538757.2-201,havana,NA,2
+1,havana,exon,183132,183216,.,+,.,,1.0,,,,ENSE00003759581,2,2,unprocessed_pseudogene,ENSG00000279928,FO538757.2,havana,2,,,,,,unprocessed_pseudogene,ENST00000624431,FO538757.2-201,havana,NA,2
+1,havana,exon,183494,183571,.,+,.,,1.0,,,,ENSE00003804405,3,1,unprocessed_pseudogene,ENSG00000279928,FO538757.2,havana,2,,,,,,unprocessed_pseudogene,ENST00000624431,FO538757.2-201,havana,NA,2
+1,havana,exon,183740,183901,.,+,.,,1.0,,,,ENSE00003807458,4,1,unprocessed_pseudogene,ENSG00000279928,FO538757.2,havana,2,,,,,,unprocessed_pseudogene,ENST00000624431,FO538757.2-201,havana,NA,2
+1,havana,exon,183981,184174,.,+,.,,1.0,,,,ENSE00003760199,5,2,unprocessed_pseudogene,ENSG00000279928,FO538757.2,havana,2,,,,,,unprocessed_pseudogene,ENST00000624431,FO538757.2-201,havana,NA,2
+1,havana,gene,185217,195411,.,-,.,,,,,,,,,unprocessed_pseudogene,ENSG00000279457,FO538757.1,havana,4,,,,,,,,,,,
+1,havana,transcript,185217,195411,.,-,.,,1.0,,,,,,,unprocessed_pseudogene,ENSG00000279457,FO538757.1,havana,4,,,,,,unprocessed_pseudogene,ENST00000623083,FO538757.1-201,havana,NA,4
+1,havana,exon,195263,195411,.,-,.,,1.0,,,,ENSE00003755778,1,1,unprocessed_pseudogene,ENSG00000279457,FO538757.1,havana,4,,,,,,unprocessed_pseudogene,ENST00000623083,FO538757.1-201,havana,NA,4
+1,havana,exon,188791,188902,.,-,.,,1.0,,,,ENSE00003755850,2,1,unprocessed_pseudogene,ENSG00000279457,FO538757.1,havana,4,,,,,,unprocessed_pseudogene,ENST00000623083,FO538757.1-201,havana,NA,4
+1,havana,exon,188439,188584,.,-,.,,1.0,,,,ENSE00003755821,3,2,unprocessed_pseudogene,ENSG00000279457,FO538757.1,havana,4,,,,,,unprocessed_pseudogene,ENST00000623083,FO538757.1-201,havana,NA,4
+1,havana,exon,188130,188266,.,-,.,,1.0,,,,ENSE00003759270,4,1,unprocessed_pseudogene,ENSG00000279457,FO538757.1,havana,4,,,,,,unprocessed_pseudogene,ENST00000623083,FO538757.1-201,havana,NA,4
+1,havana,exon,187755,187890,.,-,.,,1.0,,,,ENSE00003757255,5,2,unprocessed_pseudogene,ENSG00000279457,FO538757.1,havana,4,,,,,,unprocessed_pseudogene,ENST00000623083,FO538757.1-201,havana,NA,4
+1,havana,exon,187376,187577,.,-,.,,1.0,,,,ENSE00003755701,6,1,unprocessed_pseudogene,ENSG00000279457,FO538757.1,havana,4,,,,,,unprocessed_pseudogene,ENST00000623083,FO538757.1-201,havana,NA,4
+1,havana,exon,187129,187287,.,-,.,,1.0,,,,ENSE00003759679,7,1,unprocessed_pseudogene,ENSG00000279457,FO538757.1,havana,4,,,,,,unprocessed_pseudogene,ENST00000623083,FO538757.1-201,havana,NA,4
+1,havana,exon,186317,186469,.,-,.,,1.0,,,,ENSE00003757727,8,1,unprocessed_pseudogene,ENSG00000279457,FO538757.1,havana,4,,,,,,unprocessed_pseudogene,ENST00000623083,FO538757.1-201,havana,NA,4
+1,havana,exon,185491,185559,.,-,.,,1.0,,,,ENSE00003757943,9,1,unprocessed_pseudogene,ENSG00000279457,FO538757.1,havana,4,,,,,,unprocessed_pseudogene,ENST00000623083,FO538757.1-201,havana,NA,4
+1,havana,exon,185217,185350,.,-,.,,1.0,,,,ENSE00003755076,10,2,unprocessed_pseudogene,ENSG00000279457,FO538757.1,havana,4,,,,,,unprocessed_pseudogene,ENST00000623083,FO538757.1-201,havana,NA,4
+1,mirbase,gene,187891,187958,.,-,.,,,,,,,,,miRNA,ENSG00000273874,MIR6859-2,mirbase,1,,,,,,,,,,,
+1,mirbase,transcript,187891,187958,.,-,.,,1.0,,,,,,,miRNA,ENSG00000273874,MIR6859-2,mirbase,1,,,,,,miRNA,ENST00000612080,MIR6859-2-201,mirbase,NA,1
+1,mirbase,exon,187891,187958,.,-,.,,1.0,,,,ENSE00003737837,1,1,miRNA,ENSG00000273874,MIR6859-2,mirbase,1,,,,,,miRNA,ENST00000612080,MIR6859-2-201,mirbase,NA,1
+1,havana,gene,257864,359681,.,-,.,,,,,,,,,transcribed_processed_pseudogene,ENSG00000228463,AP006222.1,havana,10,,,,,,,,,,,
+1,havana,transcript,257864,264733,.,-,.,,1.0,,,,,,,transcribed_processed_pseudogene,ENSG00000228463,AP006222.1,havana,10,,,,,,processed_transcript,ENST00000442116,AP006222.1-201,havana,5,1
+1,havana,exon,264604,264733,.,-,.,,1.0,,,,ENSE00001149252,1,5,transcribed_processed_pseudogene,ENSG00000228463,AP006222.1,havana,10,,,,,,processed_transcript,ENST00000442116,AP006222.1-201,havana,5,1
+1,havana,exon,257864,259025,.,-,.,,1.0,,,,ENSE00001677641,2,1,transcribed_processed_pseudogene,ENSG00000228463,AP006222.1,havana,10,,,,,,processed_transcript,ENST00000442116,AP006222.1-201,havana,5,1
+1,havana,transcript,257913,268816,.,-,.,,,,,,,,,transcribed_processed_pseudogene,ENSG00000228463,AP006222.1,havana,10,,,,,,processed_transcript,ENST00000448958,AP006222.1-202,havana,5 (assigned to previous version 1),2
+1,havana,exon,268667,268816,.,-,.,,,,,,ENSE00001688505,1,1,transcribed_processed_pseudogene,ENSG00000228463,AP006222.1,havana,10,,,,,,processed_transcript,ENST00000448958,AP006222.1-202,havana,5 (assigned to previous version 1),2
+1,havana,exon,267303,268204,.,-,.,,,,,,ENSE00001769002,2,1,transcribed_processed_pseudogene,ENSG00000228463,AP006222.1,havana,10,,,,,,processed_transcript,ENST00000448958,AP006222.1-202,havana,5 (assigned to previous version 1),2
+1,havana,exon,261550,261634,.,-,.,,,,,,ENSE00003786235,3,1,transcribed_processed_pseudogene,ENSG00000228463,AP006222.1,havana,10,,,,,,processed_transcript,ENST00000448958,AP006222.1-202,havana,5 (assigned to previous version 1),2
+1,havana,exon,257913,259025,.,-,.,,,,,,ENSE00003813893,4,1,transcribed_processed_pseudogene,ENSG00000228463,AP006222.1,havana,10,,,,,,processed_transcript,ENST00000448958,AP006222.1-202,havana,5 (assigned to previous version 1),2
+1,havana,transcript,258144,359681,.,-,.,,1.0,,,,,,,transcribed_processed_pseudogene,ENSG00000228463,AP006222.1,havana,10,,,,,,processed_transcript,ENST00000441866,AP006222.1-203,havana,5 (assigned to previous version 1),2
+1,havana,exon,359345,359681,.,-,.,,1.0,,,,ENSE00001670287,1,1,transcribed_processed_pseudogene,ENSG00000228463,AP006222.1,havana,10,,,,,,processed_transcript,ENST00000441866,AP006222.1-203,havana,5 (assigned to previous version 1),2
+1,havana,exon,358049,358183,.,-,.,,1.0,,,,ENSE00001729229,2,1,transcribed_processed_pseudogene,ENSG00000228463,AP006222.1,havana,10,,,,,,processed_transcript,ENST00000441866,AP006222.1-203,havana,5 (assigned to previous version 1),2
+1,havana,exon,356685,357586,.,-,.,,1.0,,,,ENSE00003789911,3,2,transcribed_processed_pseudogene,ENSG00000228463,AP006222.1,havana,10,,,,,,processed_transcript,ENST00000441866,AP006222.1-203,havana,5 (assigned to previous version 1),2
+1,havana,exon,258144,259025,.,-,.,,1.0,,,,ENSE00001697698,4,1,transcribed_processed_pseudogene,ENSG00000228463,AP006222.1,havana,10,,,,,,processed_transcript,ENST00000441866,AP006222.1-203,havana,5 (assigned to previous version 1),2
+1,havana,transcript,258524,268816,.,-,.,,,,,,,,,transcribed_processed_pseudogene,ENSG00000228463,AP006222.1,havana,10,,,,,,processed_transcript,ENST00000634344,AP006222.1-204,havana,5 (assigned to previous version 1),2
+1,havana,exon,268667,268816,.,-,.,,,,,,ENSE00001688505,1,1,transcribed_processed_pseudogene,ENSG00000228463,AP006222.1,havana,10,,,,,,processed_transcript,ENST00000634344,AP006222.1-204,havana,5 (assigned to previous version 1),2
+1,havana,exon,267303,268204,.,-,.,,,,,,ENSE00001769002,2,1,transcribed_processed_pseudogene,ENSG00000228463,AP006222.1,havana,10,,,,,,processed_transcript,ENST00000634344,AP006222.1-204,havana,5 (assigned to previous version 1),2
+1,havana,exon,258524,259025,.,-,.,,,,,,ENSE00003789731,3,2,transcribed_processed_pseudogene,ENSG00000228463,AP006222.1,havana,10,,,,,,processed_transcript,ENST00000634344,AP006222.1-204,havana,5 (assigned to previous version 1),2
+1,havana,transcript,258568,259024,.,-,.,,1.0,,,,,,,transcribed_processed_pseudogene,ENSG00000228463,AP006222.1,havana,10,,,,,,transcribed_processed_pseudogene,ENST00000450734,AP006222.1-205,havana,NA,1
+1,havana,exon,258568,259024,.,-,.,,1.0,,,,ENSE00001787230,1,1,transcribed_processed_pseudogene,ENSG00000228463,AP006222.1,havana,10,,,,,,transcribed_processed_pseudogene,ENST00000450734,AP006222.1-205,havana,NA,1
+1,havana,transcript,263015,297502,.,-,.,,,,,,,,,transcribed_processed_pseudogene,ENSG00000228463,AP006222.1,havana,10,,,,,,processed_transcript,ENST00000424587,AP006222.1-206,havana,5 (assigned to previous version 6),7
+1,havana,exon,297345,297502,.,-,.,,,,,,ENSE00001697423,1,1,transcribed_processed_pseudogene,ENSG00000228463,AP006222.1,havana,10,,,,,,processed_transcript,ENST00000424587,AP006222.1-206,havana,5 (assigned to previous version 6),7
+1,havana,exon,289266,289370,.,-,.,,,,,,ENSE00001694491,2,1,transcribed_processed_pseudogene,ENSG00000228463,AP006222.1,havana,10,,,,,,processed_transcript,ENST00000424587,AP006222.1-206,havana,5 (assigned to previous version 6),7
+1,havana,exon,268667,268816,.,-,.,,,,,,ENSE00001688505,3,1,transcribed_processed_pseudogene,ENSG00000228463,AP006222.1,havana,10,,,,,,processed_transcript,ENST00000424587,AP006222.1-206,havana,5 (assigned to previous version 6),7
+1,havana,exon,263015,268204,.,-,.,,,,,,ENSE00001785078,4,3,transcribed_processed_pseudogene,ENSG00000228463,AP006222.1,havana,10,,,,,,processed_transcript,ENST00000424587,AP006222.1-206,havana,5 (assigned to previous version 6),7
+1,havana,gene,347982,348366,.,-,.,,,,,,,,,processed_pseudogene,ENSG00000236679,RPL23AP24,havana,2,,,,,,,,,,,
+1,havana,transcript,347982,348366,.,-,.,,1.0,,,,,,,processed_pseudogene,ENSG00000236679,RPL23AP24,havana,2,,,,,,processed_pseudogene,ENST00000458203,RPL23AP24-201,havana,NA,2
+1,havana,exon,347982,348366,.,-,.,,1.0,,,,ENSE00001707201,1,2,processed_pseudogene,ENSG00000236679,RPL23AP24,havana,2,,,,,,processed_pseudogene,ENST00000458203,RPL23AP24-201,havana,NA,2
+1,havana,gene,358857,366052,.,+,.,,,,,,,,,lincRNA,ENSG00000236601,AL732372.1,havana,2,,,,,,,,,,,
+1,havana,transcript,358857,365704,.,+,.,,,,,,,,,lincRNA,ENSG00000236601,AL732372.1,havana,2,,,,,,lincRNA,ENST00000450983,AL732372.1-201,havana,5,1
+1,havana,exon,358857,358929,.,+,.,,,,,,ENSE00001634442,1,1,lincRNA,ENSG00000236601,AL732372.1,havana,2,,,,,,lincRNA,ENST00000450983,AL732372.1-201,havana,5,1
+1,havana,exon,365171,365704,.,+,.,,,,,,ENSE00001787178,2,1,lincRNA,ENSG00000236601,AL732372.1,havana,2,,,,,,lincRNA,ENST00000450983,AL732372.1-201,havana,5,1
+1,havana,transcript,358872,365510,.,+,.,,,,,,,,,lincRNA,ENSG00000236601,AL732372.1,havana,2,,,,,,lincRNA,ENST00000412666,AL732372.1-202,havana,1,1
+1,havana,exon,358872,358957,.,+,.,,,,,,ENSE00001700697,1,1,lincRNA,ENSG00000236601,AL732372.1,havana,2,,,,,,lincRNA,ENST00000412666,AL732372.1-202,havana,1,1
+1,havana,exon,365171,365510,.,+,.,,,,,,ENSE00001745103,2,1,lincRNA,ENSG00000236601,AL732372.1,havana,2,,,,,,lincRNA,ENST00000412666,AL732372.1-202,havana,1,1
+1,havana,transcript,360057,366052,.,+,.,,1.0,,,,,,,lincRNA,ENSG00000236601,AL732372.1,havana,2,,,,,,lincRNA,ENST00000635159,AL732372.1-203,havana,1,1
+1,havana,exon,360057,360168,.,+,.,,1.0,,,,ENSE00003784495,1,1,lincRNA,ENSG00000236601,AL732372.1,havana,2,,,,,,lincRNA,ENST00000635159,AL732372.1-203,havana,1,1
+1,havana,exon,365171,366052,.,+,.,,1.0,,,,ENSE00003791014,2,1,lincRNA,ENSG00000236601,AL732372.1,havana,2,,,,,,lincRNA,ENST00000635159,AL732372.1-203,havana,1,1

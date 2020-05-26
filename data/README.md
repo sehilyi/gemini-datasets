@@ -1,0 +1,3 @@
+- Homo_sapiens.GRCh38.92.csv
+   - Source: https://www.kaggle.com/alfrandom/human-genome-annotation/data#
+   - License: Database Contents License (DbCL) v1.0
