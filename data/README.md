@@ -4,3 +4,5 @@
 - chr1_cytogenetic_band.glyph.csv
 - cytogenetic_band.csv
     - Source: https://en.wikipedia.org/wiki/Chromosome_1
+- circos-segdup.txt
+    - Source: http://circos.ca/documentation/course/
