@@ -14,3 +14,6 @@
     - Source: http://circos.ca/documentation/course/
 - rearrangements.bulk.1639.simple.filtered.pub
     - Source: https://data.mendeley.com/datasets/2mn4ctdpxp/1
+- alignment_viewer_p53.fasta.csv
+    - Source: https://dash.plotly.com/dash-bio/alignmentchart (https://raw.githubusercontent.com/plotly/datasets/master/Dash_Bio/Genetic/alignment_viewer_p53.fasta)
+    - Data process: https://observablehq.com/d/d090d2027c798d15
