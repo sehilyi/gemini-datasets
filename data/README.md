@@ -17,3 +17,9 @@
 - alignment_viewer_p53.fasta.csv
     - Source: https://dash.plotly.com/dash-bio/alignmentchart (https://raw.githubusercontent.com/plotly/datasets/master/Dash_Bio/Genetic/alignment_viewer_p53.fasta)
     - Data process: https://observablehq.com/d/d090d2027c798d15
+- UCSC.HG19.Human.CytoBandIdeogram.bed (BED4+1, extra field is `stain`)
+    - Source: https://github.com/stianlagstad/chimeraviz/blob/master/inst/extdata/UCSC.HG19.Human.CytoBandIdeogram.txt
+    - Data process: normalize inconsistent spaces to tabs
+- UCSC.HG38.Human.CytoBandIdeogram.bed (BED4+1, extra field is `stain`)
+    - Source: https://github.com/stianlagstad/chimeraviz/blob/master/inst/extdata/UCSC.HG38.Human.CytoBandIdeogram.txt
+    - Data process: normalize inconsistent spaces to tabs
